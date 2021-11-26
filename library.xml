@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <vocabulary>
+        <author>T.S. ELIOT</author>
+        <name>THE WASTE LAND</name>
+        <publication>Ritual to Romance</publication>
+        <languageFrom>RUSSIAN</languageFrom>
+        <languageTo>UKRAINIAN</languageTo>
+    </vocabulary>
+    <vocabulary>
+        <author>A. S. Macro</author>
+        <name>Marra</name>
+        <publication>UTVH</publication>
+        <languageFrom>RUSSIAN</languageFrom>
+        <languageTo>GERMAN</languageTo>
+    </vocabulary>
+    <vocabulary>
+        <author>P. A. Olet</author>
+        <name>Carob</name>
+        <publication>Port</publication>
+        <languageFrom>UKRAINIAN</languageFrom>
+        <languageTo>ENGLISH</languageTo>
+    </vocabulary>
+    <textBook>
+        <author>РЁРµРІС‡РµРЅРєРѕ</author>
+        <name>РљРѕР±Р·Р°СЂ</name>
+        <publication>РўРћРЈРљ</publication>
+        <genre>NOWELL</genre>
+    </textBook>
+    <textBook>
+        <author>Andrzej Sapkowski</author>
+        <name>Tower of the fools</name>
+        <publication>Wither</publication>
+        <genre>FANTASY</genre>
+    </textBook>
+    <textBook>
+        <author>J. R. R. Tolkien</author>
+        <name>Lord of the rings</name>
+        <publication>Allen &amp; Unwin</publication>
+        <genre>FANTASY</genre>
+    </textBook>
+</library>
